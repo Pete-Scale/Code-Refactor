@@ -65,7 +65,7 @@ body {
 }
 
 /* Navigation hyperlink typography */
-a {
+.header nav ul li a {
     color: #ffffff;
     text-decoration: none;
 }
@@ -117,47 +117,60 @@ a {
     background-color: #0072bb;
 }
 
-/*  */
-.content img {
+/* Main content image size */
+.content section img {
     max-height: 200px;
 }
 
-/*  */
-.content h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
 
-/*  */
-p {
-    font-size: 16px;
-}
-
-/*  */
+/* Main content left side image positioning */
 .float-left {
     float: left;
     margin-right: 25px;
 }
 
-/*  */
+/* Main content right side image positioning */
 .float-right {
     float: right;
     margin-left: 25px;
 }
 
-/*  */
+/* Main content heading styles */
+.content section h2 {
+
+    /* Positioning */
+    margin-bottom: 20px;
+
+    /* Typography */
+    font-size: 36px;
+}
+
+/* Main content paragraph typography */
+.content section p {
+    font-size: 16px;
+}
+
+/* Sidebar benefits styles */
 .benefits {
-    margin-right: 20px;
+
+    /* Box-model */
     padding: 20px;
-    clear: both;
-    float: right;
     width: 20%;
     height: 100%;
+    
+    /* Positioning */
+    margin-right: 20px;
+    clear: both;
+    float: right;
+
+    /* Typography */
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+    /* Visual */
     background-color: #2589bd;
 }
 
-/*  */
+/* Sidebar benefits section positioning */
 .benefits section {
     margin-bottom: 32px;
     color: #ffffff;
