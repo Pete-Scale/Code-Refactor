@@ -7,7 +7,7 @@ First homework assignment using HTML, CSS, and Git to refactor the Horiseon webs
 ## Table of Contents
 [Description](#description)
 
-[Usage](#usage)
+[Features](#features)
 
 ---
 
@@ -18,7 +18,7 @@ Took the Horiseon webpage and optimized it without changing its appearance or fu
 
 ---
 
-## Usage
+## Features
 
 - WHEN I view the source code
 
