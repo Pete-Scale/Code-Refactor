@@ -9,14 +9,18 @@ First homework assignment using HTML, CSS, and Git to refactor the Horiseon webs
 
 [Usage](#usage)
 
+---
 
+## Description
 
+Took the Horiseon webpage and optimized it without changing its appearance or function.
 
 
 
 ---
 
-## Description
+## Usage
+
 WHEN I view the source code
 THEN I find semantic HTML elements
 WHEN I view the structure of the HTML elements
@@ -27,8 +31,3 @@ WHEN I view the heading attributes
 THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
-
-
----
-
-## Usage
