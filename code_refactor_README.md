@@ -9,6 +9,10 @@ First homework assignment using HTML, CSS, and Git to refactor the Horiseon webs
 
 [Features](#features)
 
+[Usage](#usage)
+
+[Credits](#credits)
+
 ---
 
 ## Description
@@ -39,3 +43,21 @@ Took the Horiseon webpage and optimized it without changing its appearance or fu
 - WHEN I view the title element
 
     THEN I find a concise, descriptive title
+
+___
+
+## Usage
+
+"Search Engine Optimization" navigation button now works correctly.
+
+The site is not fully reactive, so when the screen size is changed the elements of the page don't maintain a nice format... 
+
+but we didn't have to change that, and I'm tired :)
+
+---
+
+## Credits
+
+Special thanks to Josh and the TA's for their help!
+
+Also thanks to google teaching me how to make a table of contents!
