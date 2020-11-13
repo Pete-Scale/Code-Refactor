@@ -1,4 +1,4 @@
-# Homework-01-Code-Refactor README
+# Code-Refactor README
 
 ![Horiseon Webpage](\assets\images\01-html-css-git-homework-demo.png)
 
@@ -58,6 +58,6 @@ but we didn't have to change that, and I'm tired :)
 
 ## Credits
 
-Special thanks to Josh and the TA's for their help!
+Special thanks to Josh and the gang for their help!
 
 Also thanks to Google for teaching me how to make a table of contents!
