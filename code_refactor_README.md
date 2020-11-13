@@ -2,7 +2,7 @@
 
 ![Horiseon Webpage](\assets\images\01-html-css-git-homework-demo.png)
 
-First homework assignment using HTML, CSS, and Git to refactor the Horiseon website to make it more accessible.
+First assignment using HTML, CSS, and Git to refactor the Horiseon website to make it more accessible.
 
 ## Table of Contents
 [Description](#description)
@@ -60,4 +60,4 @@ but we didn't have to change that, and I'm tired :)
 
 Special thanks to Josh and the TA's for their help!
 
-Also thanks to google teaching me how to make a table of contents!
+Also thanks to Google for teaching me how to make a table of contents!
