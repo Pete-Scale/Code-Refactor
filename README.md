@@ -1,6 +1,6 @@
 # Code-Refactor README
 
-![Horiseon Webpage](\assets\images\code_refactor.png)
+![Horiseon Webpage](./assets/images/code_refactor.png)
 
 First assignment using HTML, CSS, and Git to refactor the Horiseon website to make it more accessible.
 
